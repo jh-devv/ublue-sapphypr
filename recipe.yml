@@ -75,7 +75,7 @@ rpm:
   - polkit-kde
   - qt5-qtwayland
   - qt5ct
-  - sddm
+  - greetd
   - swaybg
   - swayidle
   - swaylock
