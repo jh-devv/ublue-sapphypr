@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/jh-devv/ublue-sapphypr/compare/v1.0.0...v1.0.1) (2023-08-02)
+
+
+### Bug Fixes
+
+* go back to sddm ([1f3c95f](https://github.com/jh-devv/ublue-sapphypr/commit/1f3c95f3bfa114695cb4600ba1f885080691c87a))
+
 ## 1.0.0 (2023-08-02)
 
 
