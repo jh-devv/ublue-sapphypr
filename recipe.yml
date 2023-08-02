@@ -111,12 +111,7 @@ rpm:
   # System Utilities
   - btop
   - cronie
-  - distrobox
   - git
-  - podman-compose
-  - podman-docker
-  - podman-plugins
-  - podman-tui
   - zsh
   - blueman
 
