@@ -1,4 +1,4 @@
-# Starting point
+# ublue-sapphypr
 
 [![build-ublue](https://github.com/jh-devv/ublue-sapphypr/actions/workflows/build.yml/badge.svg)](https://github.com/jh-devv/ublue-sapphypr/actions/workflows/build.yml)
 
