@@ -1,0 +1,6 @@
+ublue_variants:
+  - label: jh-devv/ublue-sapphypr
+    ks: /kickstart/ublue-os.ks
+    flavors:
+      - label: ublue-sapphypr
+        info: ublue-sapphypr
